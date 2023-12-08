@@ -249,7 +249,7 @@ Top 1 SO2 Pollutant City:
 Sync Slicer:
 
     *Use sync slicer to select the date range and find the highest, lowest pollutants, and maximum SO2.
-    #Snapshot of NO2 dashboard:-![Screenshot (16)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/0aea4df5-07c1-4900-979c-676b55353fd8)
+   #Snapshot of NO2 dashboard:-![Screenshot (16)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/0aea4df5-07c1-4900-979c-676b55353fd8)
 
 
  Nitrogen Dioxide (NO2)
