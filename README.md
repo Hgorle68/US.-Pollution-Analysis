@@ -85,7 +85,7 @@ Quarter-wise Bifurcation:
 
     *Create quarter-wise bifurcation for CO.
 
-  #Snapshort Of Overview:-
+  #Snapshort Of Overview:-![Screenshot (13)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/1a4dc46e-6f70-426e-8605-2f460af468d3)
   
 
 Page 2: Carbon Monoxide
