@@ -264,11 +264,6 @@ Filled Map:
 
     *Generate a filled map to display US states.
 
-Table Display:
-
-    *Create a table to display county names along with codes.
-
-Quarter-wise Bifurcation:
 
     *Create quarter-wise bifurcation for NO2.
 
