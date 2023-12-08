@@ -189,6 +189,8 @@ Top 1 O3 Pollutant City:
 Sync Slicer:
 
     *Use sync slicer to select the date range and find the highest, lowest pollutants, and maximum O3.
+    #snapshot of ozone dashboard:-
+![Screenshot (15)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/8c14283b-8123-4d29-a6b5-b1a2378a6fb2)
 
  Sulphur Dioxide (SO2)
 Page 5: Overview
