@@ -1,14 +1,14 @@
 **US. POLLUTION ANALYSIS**
 
 
-Dashboard Link:-https://app.powerbi.com/groups/me/reports/e19a493d-8fed-4637-9e54-baec86d0a9bc/ReportSection?experience=power-bi
+**Dashboard Link:**-https://app.powerbi.com/groups/me/reports/e19a493d-8fed-4637-9e54-baec86d0a9bc/ReportSection?experience=power-bi
 
 
 
 
 
 
-Problem Statement:-
+**Problem Statement:-**
 
 Air pollution is a growing concern globally, impacting the environment and public health. This project focuses on leveraging Power BI to analyze and visualize pollution data in the United States.Air pollution is the contamination of air due to the presence of substances in the atmosphere that are harmful to the health of humans and other living beings, or cause damage to the climate or to materials.
 
@@ -17,7 +17,7 @@ Air pollution is a growing concern globally, impacting the environment and publi
 
 
 
-Stepwise Process:-
+**Stepwise Process:-**
 
 Step 1: Import the Data
 
@@ -65,9 +65,9 @@ Close and Apply:
 
 
 
-Step-by-Step Guide for Each Pollutant:-
+**Step-by-Step Guide for Each Pollutant:-**
 
-1. Carbon Monoxide (CO)
+**1. Carbon Monoxide (CO)**
 Page 1: Overview
 
 Create Overview Page:
@@ -90,7 +90,7 @@ Quarter-wise Bifurcation:
   #Snapshort Of Overview:-![Screenshot (13)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/1a4dc46e-6f70-426e-8605-2f460af468d3)
   
 
-Page 2: Carbon Monoxide
+**Page 2: Carbon Monoxide**
 Create Page:
 
 
@@ -128,13 +128,13 @@ Sync Slicer:
 
     *Use sync slicer to select the date range and find the highest, lowest pollutants, and maximum CO.
     
-   #snapshot of CO dashboard
+   **#snapshot of CO dashboard**
    :- ![Screenshot (14)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/bd00509a-592a-4d10-a551-e6b0f4dfb268)
    
 
 
 Page 3: Overview
-Create Overview Page Ozone (O3):
+**Create Overview Page Ozone (O3):**
 
     *Design the Overview page with text boxes for O3 and set up action-page navigation.
     *Create slicers for states, cities, counties, and years affected by O3.
@@ -192,7 +192,7 @@ Sync Slicer:
    #snapshot of ozone dashboard:-![Screenshot (15)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/8c14283b-8123-4d29-a6b5-b1a2378a6fb2)
 
 
- Sulphur Dioxide (SO2)
+ **Sulphur Dioxide (SO2)**
  
 Page 5: Overview
 
@@ -252,7 +252,7 @@ Sync Slicer:
    #Snapshot of NO2 dashboard:-![Screenshot (16)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/0aea4df5-07c1-4900-979c-676b55353fd8)
 
 
- Nitrogen Dioxide (NO2)
+** Nitrogen Dioxide (NO2)**
 Page 7: Overview
 Create Overview Page:
 
