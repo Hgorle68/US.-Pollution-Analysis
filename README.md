@@ -1,6 +1,8 @@
 US. POLLUTION ANALYSIS
 
+
 Dashboard Link:-https://app.powerbi.com/groups/me/reports/e19a493d-8fed-4637-9e54-baec86d0a9bc/ReportSection?experience=power-bi
+
 
 
 
@@ -126,7 +128,8 @@ Sync Slicer:
 
     *Use sync slicer to select the date range and find the highest, lowest pollutants, and maximum CO.
     
-    #Snapshot Of Dashboard:-![Screenshot (14)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/3fa29c83-43bb-4d8a-82d5-08da5603c243)
+    #Snapshot Of Dashboard:-
+   
 
 
 Page 3: Overview
