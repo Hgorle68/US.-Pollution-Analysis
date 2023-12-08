@@ -127,7 +127,8 @@ Top 1 CO Pollutant City:
 Sync Slicer:
 
     *Use sync slicer to select the date range and find the highest, lowest pollutants, and maximum CO.
-    ![Screenshot (14)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/bd00509a-592a-4d10-a551-e6b0f4dfb268)
+    
+   # snapshort of CO dashboard:- ![Screenshot (14)](https://github.com/Hgorle68/Power-BI-Projects/assets/153175788/bd00509a-592a-4d10-a551-e6b0f4dfb268)
    
 
 
